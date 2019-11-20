@@ -1,5 +1,14 @@
 # TypeScript-Node-Starter
 
+## Command
+- npm install -D typescript
+- npm install -D tslint
+- npm install express --save
+- npm i mysql --save
+- npm i body-parser
+## OR
+- npm install
+
 ## Run
 ### To develop, we run:
 - npm run watch-ts
